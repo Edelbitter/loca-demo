@@ -1,4 +1,4 @@
-﻿namespace locademo
+﻿namespace loca_demo
 {
     public class SharedResources
     {

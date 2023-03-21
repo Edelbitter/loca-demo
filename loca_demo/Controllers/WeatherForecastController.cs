@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Localization;
 
-namespace locademo.Controllers
+namespace loca_demo.Controllers
 {
     [ApiController]
     [Route("[controller]")]
